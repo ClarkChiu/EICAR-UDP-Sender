@@ -22,7 +22,7 @@
     -port PORT  Port number
   ```
 
-  ## Screenshots
+## Screenshots
 
 ```powershell
  PS C:\Users\Clark\Desktop> python.exe .\EICAR-UDP-Sender.py -ip 127.0.0.1 -port 1234
@@ -30,3 +30,5 @@
 
 ![](./screenshots/packet_capture.png)
 
+## Credits
+- sk8erboi0307 [at] gmail.com 
